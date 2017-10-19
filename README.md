@@ -1,2 +1,2 @@
 # designplayground
-A place where designers are free to play with git. Fun.
+A place where designers are free to play with git.

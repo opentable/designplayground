@@ -6,3 +6,4 @@ What is your favorite food?
 # Follow the format [name]: [food]
 
 Frances: Taco Bell
+TeachingBot: Twinkies

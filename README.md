@@ -6,7 +6,4 @@ What is your favorite food?
 # Follow the format [name]: [food]
 
 Frances: Taco Bell
-Yuebo: Pork Belly
 Yuebo: Oatmeal Cookie
-Yuebo: Affagato
-Yuebo: ice cream

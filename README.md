@@ -9,3 +9,4 @@ Frances: Taco Bell
 Yuebo: Pork Belly
 Yuebo: Oatmeal Cookie
 Yuebo: Affagato
+Yuebo: ice cream
